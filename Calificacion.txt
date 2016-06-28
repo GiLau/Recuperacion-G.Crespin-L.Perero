@@ -1,11 +1,13 @@
-Detalle Calificacion   33/50
+Detalle Calificacion   35/50
 Pagina de Servicios (5 Puntos): 5 Puntos. La descripcion de los servicios son apropiados.
-Pagina de Arribo de Buques con Arreglo de Objetos (10 Puntos): 8 Puntos. Se muestran los buques a arribar pero no hay descripcion en la pagina de que es cada campo.
+Pagina de Arribo de Buques con Arreglo de Objetos (10 Puntos): 9 Puntos. Se muestran los buques a arribar pero no hay descripcion en la pagina de que es cada campo.
 Busqueda de buques en 3 criterios(carga, bandera, nombre) (15 Puntos): 3 Puntos. Al menos intento implementar algo y pudo demostrarlo con el select.
 Galeria con JQuery (10 Puntos): 10 Puntos. La galeria funciona bien.
-Calidad de código (comentarios, código que ejecute, ausencia de errores, uso de git, estetica) (10 Puntos): 7 Puntos. Le falta algo de estetica. Tambien faltan comentarios.
+Calidad de código (comentarios, código que ejecute, ausencia de errores, uso de git, estetica) (10 Puntos): 8 Puntos. Le falta algo de estetica. Tambien faltan comentarios.
 
 Comentarios Profesor:
 Un examen bueno en terminos generales, al menos intento implementar algo de la busqueda, eso es lo mas importante.
 Alli perdio 15 puntos.
+Tiene errores de consola al usar el atajo $ en JS porque no esta cargando JQuery en la pagina de Buques.
+Le he recalificado, pero no hay mucho donde cambar nota. Le he sumado un punto en Arribo de buques aunque no me convence su pagina.
 
